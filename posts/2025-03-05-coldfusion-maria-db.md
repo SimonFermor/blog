@@ -17,7 +17,7 @@ Java JAR files are stored in the lib folder under the ColdFusion installation fo
 
 ## Connection Settings
 
-An example connection as shown in the ColdFusion administrator is shown as below.
+An example connection of connection settings in the ColdFusion administrator is shown as below (not using root in production!)
 
 ![Example connection settings](/assets/images/2025_03_05_Example_Connection_Settings.png 'Example of connection settings')
 
